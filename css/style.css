@@ -1,0 +1,23 @@
+html{background-color:F3F3F3; }
+.section1{background-color: white; height:1097px; width: 1900px; padding-left: 30px; margin-bottom: 300px}
+.navbar{display: flex; padding-top: 40px;}
+.heading1{ font-weight: 400px; font-size: 48px; line-height: 72px; font-family:Poppins ;margin-left: 70px; flex:2 ;}
+.sub-navbar1{color: black; font-family: poppins; font-size: 24px; font-weight: 00px; line-height: 36px;
+     letter-spacing: 0em;padding-top: 50px; flex: 4;   }
+.links{text-decoration: none; color: black; padding: 20px; text}
+button{font-family: poppins; font-size: 24px; font-weight: 500; line-height: 36px; letter-spacing: 0em; text-align: left;
+ background-color:#E87A14; color: white; padding: 20px 40px; border-radius: 40px; border-width: 0px;}    
+.sub-navbar2{padding-top: 40px; flex: 2;}
+.image1{ width: 1575px; height: 900px; margin-left: 70px; padding-top: 30px;} 
+#image3{width: 1160px; height: 846px; position: relative; bottom: 963px; padding-left: 380px;}
+.exit-icon{position: relative; bottom: 1830px; left: 250px;} 
+
+
+
+
+
+
+   
+
+
+
